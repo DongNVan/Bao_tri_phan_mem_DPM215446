@@ -1,0 +1,14 @@
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.AssemblyInfoInputs.cache
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.AssemblyInfo.cs
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.csproj.CoreCompileInputs.cache
+Z:\Dong\CreationalDesignPattern\Protorype\bin\Debug\net8.0\Protorype.exe
+Z:\Dong\CreationalDesignPattern\Protorype\bin\Debug\net8.0\Protorype.deps.json
+Z:\Dong\CreationalDesignPattern\Protorype\bin\Debug\net8.0\Protorype.runtimeconfig.json
+Z:\Dong\CreationalDesignPattern\Protorype\bin\Debug\net8.0\Protorype.dll
+Z:\Dong\CreationalDesignPattern\Protorype\bin\Debug\net8.0\Protorype.pdb
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.dll
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\refint\Protorype.dll
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.pdb
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\Protorype.genruntimeconfig.cache
+Z:\Dong\CreationalDesignPattern\Protorype\obj\Debug\net8.0\ref\Protorype.dll

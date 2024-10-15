@@ -1,0 +1,14 @@
+Z:\Dong\CreationalDesignPattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+Z:\Dong\CreationalDesignPattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+Z:\Dong\CreationalDesignPattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+Z:\Dong\CreationalDesignPattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+Z:\Dong\CreationalDesignPattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+Z:\Dong\CreationalDesignPattern\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

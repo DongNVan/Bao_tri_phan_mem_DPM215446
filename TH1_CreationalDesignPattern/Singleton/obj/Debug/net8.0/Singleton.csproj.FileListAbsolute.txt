@@ -1,0 +1,14 @@
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\Hoc\Nam4_hk1\ThietKeBaoTriPM\Dong\CreationalDesignPattern\Singleton\obj\Debug\net8.0\ref\Singleton.dll
